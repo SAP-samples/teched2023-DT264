@@ -270,7 +270,7 @@ use etag
 }   
 </pre>
 
-When you now try out the extended RAP business object you should notice that the price is automatically updated once the user has selected a new object.
+When you now try out the extended RAP business object you should notice that the price is still not automatically updated once the user has selected a new object.
  
 ![BDEF Extension](images/ex2_02_040_RAP630.png)
 
@@ -308,14 +308,9 @@ Now you can continue and add side effects via your behavior defintion extension 
 
 3. Create a new order, specify a delivery data or open an existing order and switch to the edit mode and then select a (new) product. 
    
-   You will notice that the data that you have selected in the SAP Fiori UI is not being updated automatically. When chaning / selecting a new product.
+   You will notice that the data that you have selected in the SAP Fiori UI is now being updated automatically when chaning / selecting a new product.
 
-   ![BDEF Extension](images/ex2_02_020_RAP630.png)   
-
-   you will see that even a browser refresh not updated will be visible. Only after you use the refresh of the UI the changes will bekome visble
    
-  ![BDEF Extension](images/ex2_02_030_RAP630.png)
- 
  
 </pre> 
  </details>
