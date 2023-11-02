@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT182v)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT182v)
+[![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/teched2023-DT264)](https://api.reuse.software/info/github.com/sap-samples/teched2023-DT264)
 
 # DT264 - Use ABAP Cloud to build extensions for SAP S/4HANA Cloud, Public Edition
 
