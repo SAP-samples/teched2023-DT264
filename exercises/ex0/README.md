@@ -30,10 +30,11 @@ Now that you have created your ABAP Cloud project you will use class `ZDMO_GEN_R
 2. Search for **`ZDMO_GEN_RAP630_SINGLE`**, select it and click **OK**.    
 
 3. Right-click **`ZDMO_GEN_RAP630_SINGLE`**, select **Run As** > **ABAP Application (Console) F9**.
+    ![F9](images/Console_F9.png)
 
-4. Now your packages `ZRAP630_###` and `ZRAP630_###_EXT` are created in some minutes and will contain everything you need. The suffix `###` denotes an arbitrary number (not necessarily connected to your user number), in the following exercises we call it your **group number**. Check the ABAP console for more information to get this number.
+5. Now your packages `ZRAP630_###` and `ZRAP630_###_EXT` are created in some minutes and will contain everything you need. The suffix `###` denotes an arbitrary number (not necessarily connected to your user number), in the following exercises we call it your **group number**. Check the ABAP console for more information to get this number.
 
-5. **⚠Copy the package names from ABAP console and the suffix for later use.**   
+6. **⚠Copy the package names from ABAP console and the suffix for later use.**   
    In the "Project Explorer" right click on **Favorite Packages** and click on **Add Package...**.   
    Enter `ZRAP630_###` and and select **both** packages and click OK. 
 
