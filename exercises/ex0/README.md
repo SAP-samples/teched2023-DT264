@@ -33,6 +33,7 @@ Now that you have created your ABAP Cloud project you will use class `ZDMO_GEN_R
     ![F9](images/Console_F9.png)
 
 5. Now your packages `ZRAP630_###` and `ZRAP630_###_EXT` are created in some minutes and will contain everything you need. The suffix `###` denotes an arbitrary number (not necessarily connected to your user number), in the following exercises we call it your **group number**. Check the ABAP console for more information to get this number.
+    ![F9](images/packages.png)
 
 6. **⚠Copy the package names from ABAP console and the suffix for later use.**   
    In the "Project Explorer" right click on **Favorite Packages** and click on **Add Package...**.   
